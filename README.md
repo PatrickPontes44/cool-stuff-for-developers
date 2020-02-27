@@ -7,8 +7,8 @@ Alguns sites interessantes que você pode estar utilizando para a parte do front
   
   * ### [Coolors](https://coolors.co/) - Para paletas de cores rápidas para seus protótipos.
   
-  * ### [Flat UI Colors] (https://flatuicolors.com/) - Excelente para conseguir paletas de cores como as do Facebook e WhatsApp por exemplo.
+  * ### [Flat UI Colors](https://flatuicolors.com/) - Excelente para conseguir paletas de cores como as do Facebook e WhatsApp por exemplo.
 
-  * ### [GetWaves] (https://getwaves.io/) - Útil se você quiser estilizar o background com ondulações em SVG.
+  * ### [GetWaves](https://getwaves.io/) - Útil se você quiser estilizar o background com ondulações em SVG.
   
-  * ### [Undraw] (https://undraw.co/illustrations) - Se você quiser obter ilustrações de qualidade para suas páginas, esse é o site.
+  * ### [Undraw](https://undraw.co/illustrations) - Se você quiser obter ilustrações de qualidade para suas páginas, esse é o site.

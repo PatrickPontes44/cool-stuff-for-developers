@@ -12,3 +12,5 @@ Alguns sites interessantes que você pode estar utilizando para a parte do front
   * ### [GetWaves](https://getwaves.io/) - Útil se você quiser estilizar o background com ondulações em SVG.
   
   * ### [Undraw](https://undraw.co/illustrations) - Se você quiser obter ilustrações de qualidade para suas páginas, esse é o site.
+  
+  *### [Pexels](https://www.pexels.com/) - Aqui você pode obter excelentes stock photos grátis para seus projetos.

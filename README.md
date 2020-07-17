@@ -14,3 +14,4 @@ Alguns sites interessantes que você pode estar utilizando para a parte do front
   * ### [Undraw](https://undraw.co/illustrations) - Se você quiser obter ilustrações de qualidade para suas páginas, esse é o site.
   
   * ### [Pexels](https://www.pexels.com/) - Aqui você pode obter excelentes stock photos grátis para seus projetos.
+  * ### [CSS Tools](https://www.css-tools.com/) - Aqui você tem acesso à ferramentas como Gerador de Border Radius, Gerador de Box Shadow, etc.

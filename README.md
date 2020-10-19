@@ -1,4 +1,4 @@
-# Recursos Úteis
+# Recursos Úteis / Cool stuff for Devs
 Este repositório irá conter alguns recursos interessantes que eu venha a encontrar durante essa jornada...
 
 ## Parte 1 - Design e Front-end :)
